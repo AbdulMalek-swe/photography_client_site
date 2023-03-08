@@ -22,7 +22,7 @@ const Navbar = ():JSX.Element => {
                             </ul>
                         </li>
                         <li><a href="/">Pricing</a></li>
-                        <li><a href="/">Contact</a></li>
+                         
                     </div>
                 </ul>
             </nav>
